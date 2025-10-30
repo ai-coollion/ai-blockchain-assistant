@@ -1,7 +1,7 @@
 <hr />
 <p>React + MUI boilerplate</p>
 
-# 🪐 AI Blockchain Assistant Chat UI (Tauri + React)
+# 🪐 AI Blockchain Assistant Chat UI (Tauri + React TypeScript)
 
 Modern desktop chat interface for the AI Blockchain Assistant, built with React, Tauri, and TypeScript.
 
